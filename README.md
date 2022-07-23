@@ -79,7 +79,7 @@ Run
 
 | 👤 Name          | Github                                     | Twitter                                               | LinkedIn                                                       |
 | ---------------- | ------------------------------------------ | ----------------------------------------------------- | -------------------------------------------------------------- |
-| Jahongir Yusupov | [@jahongir Yusupov](https://github.com/jahongiry) | [@SJahongir Yusupov](https://twitter.com/SafarAli999) | [@Jahongir Yusupov](https://www.linkedin.com/in/safar-ali999/) |
+| Jahongir Yusupov | [@jahongir Yusupov](https://github.com/jahongiry) | [@SJahongir Yusupov]() | [@Jahongir Yusupov]() |
 
 ## 🤝 Contributing
 
