@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-> This website is built using React. It is about space travel along with some information regarding rockets using an API from SpaceX, that will be used to take travelers to space. Moreover, you can add or choose a rocker for yourself, or also reserve a seat for space travel.
+> This website is built using Reactjs. It is about space travel along with some information regarding rockets using an API from SpaceX, that is used to take travelers to space. Moreover, you can add or choose a rocker for yourself, or also reserve a seat for space travel.
 
 ## Live Version ✔️
 
